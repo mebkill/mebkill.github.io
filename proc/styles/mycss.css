@@ -1,0 +1,49 @@
+body {
+background: linear-gradient(300deg, #57068d 0%, #204eb1 100%); 
+}
+
+.nav-link {
+    color: aquamarine;
+}
+.navbar-nav .nav-link.active {
+    color: rgb(0, 246, 238);
+}
+.navbar-brand img {
+    width: 100px;
+
+}
+.navbar-toggler{
+    border-color: aliceblue;
+}
+.card{
+    box-shadow: 35px 10px 52px 3px #5e0646;
+}
+.sidebar {
+   color: aquamarine; 
+   background: linear-gradient(150deg, #8b2315b9 0%, #1a0000 100%); 
+
+}
+.LOP{
+    color: aquamarine;
+    margin: auto auto;
+}
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.op {
+    max-width: 710px;
+    max-height: auto;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: aquamarine;
+}
+.col-lg-4.col-md-12.LOP.UP{
+    margin-left: 30PX;
+}
+.UP{
+    margin-right: 30PX;
+}

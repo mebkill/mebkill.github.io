@@ -1,0 +1,21 @@
+.nef{
+    color: aquamarine;
+}
+body {
+    background: linear-gradient(300deg, #57068d 0%, #204eb1 100%);
+}
+.block {
+
+    margin-left: 50px;
+    margin-right: 50px;
+    color: aquamarine;
+}
+.col-lg-4.col-md-12.LOP.UP {
+    margin-left: 30PX;
+}
+
+.LOP {
+    color: aquamarine;
+    margin: auto auto;
+}
+
